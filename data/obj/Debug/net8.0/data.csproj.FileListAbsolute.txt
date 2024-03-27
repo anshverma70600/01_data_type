@@ -1,0 +1,5 @@
+/workspaces/01_data_type/data/obj/Debug/net8.0/data.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/01_data_type/data/obj/Debug/net8.0/data.AssemblyInfoInputs.cache
+/workspaces/01_data_type/data/obj/Debug/net8.0/data.AssemblyInfo.cs
+/workspaces/01_data_type/data/obj/Debug/net8.0/data.csproj.CoreCompileInputs.cache
+/workspaces/01_data_type/data/obj/Debug/net8.0/data.sourcelink.json

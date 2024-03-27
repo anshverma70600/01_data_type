@@ -1,7 +1,7 @@
 using System;
 using static System.Console;
 public class data_type{
-    public static void main(){
+    public static void main(string[] args){
         WriteLine("Enter int value : ");
         int n = Convert.ToInt32(Readline());
 
