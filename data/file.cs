@@ -1,27 +1,28 @@
 using System;
-using static System.Console;
-public class data_type{
-    public static void main(string[] args){
-        WriteLine("Enter int value : ");
-        int n = Convert.ToInt32(Readline());
 
-        WriteLine("Enter float value : ");
-        float f = Convert.ToSingle(Readline());
 
-        WriteLine("Enter a string : ");
-        string s = Readline();
+public class data{
+    static void Main(string[] args){
+        Console.WriteLine("Enter int value : ");
+        int n = Convert.ToInt32(Console.ReadLine());
 
-        WriteLine("Enter bool (true or false) : ");
-        bool b = Convert.ToBoolean(Readline());
+        Console.WriteLine("Enter float value : ");
+        float f = Convert.ToSingle(Console.ReadLine());
 
-        WriteLine("Enter char : ");
-        char c = Convert.ToChar(Readline());
+        Console.WriteLine("Enter a string : ");
+        string s = Console.ReadLine();
 
-        WriteLine($" {n} is integer !");
-        WriteLine($" {f} is float !");
-        WriteLine($" {s} is string !");
-        WriteLine($" {b} is boolean !");
-        WriteLine($" {c} is char !");
+        Console.WriteLine("Enter bool (true or false) : ");
+        bool b = Convert.ToBoolean(Console.ReadLine());
+
+        Console.WriteLine("Enter char : ");
+        char c = Convert.ToChar(Console.ReadLine());
+
+        Console.WriteLine($" {n} is integer !");
+        Console.WriteLine($" {f} is float !");
+        Console.WriteLine($" {s} is string !");
+        Console.WriteLine($" {b} is boolean !");
+        Console.WriteLine($" {c} is char !");
 
     }
 }
