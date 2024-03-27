@@ -3,3 +3,13 @@
 /workspaces/01_data_type/data/obj/Debug/net8.0/data.AssemblyInfo.cs
 /workspaces/01_data_type/data/obj/Debug/net8.0/data.csproj.CoreCompileInputs.cache
 /workspaces/01_data_type/data/obj/Debug/net8.0/data.sourcelink.json
+/workspaces/01_data_type/data/bin/Debug/net8.0/data
+/workspaces/01_data_type/data/bin/Debug/net8.0/data.deps.json
+/workspaces/01_data_type/data/bin/Debug/net8.0/data.runtimeconfig.json
+/workspaces/01_data_type/data/bin/Debug/net8.0/data.dll
+/workspaces/01_data_type/data/bin/Debug/net8.0/data.pdb
+/workspaces/01_data_type/data/obj/Debug/net8.0/data.dll
+/workspaces/01_data_type/data/obj/Debug/net8.0/refint/data.dll
+/workspaces/01_data_type/data/obj/Debug/net8.0/data.pdb
+/workspaces/01_data_type/data/obj/Debug/net8.0/data.genruntimeconfig.cache
+/workspaces/01_data_type/data/obj/Debug/net8.0/ref/data.dll
